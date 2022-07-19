@@ -25,6 +25,10 @@ git clone ```https://github.com/erenaknc/kodluyoruzilkrepo.git```
 # License
 
 [MIT]()
+---
+---
+
+www.patika.dev
 
 ---
 ---
